@@ -1,0 +1,17 @@
+{
+  "name": "autotxnfloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "modules": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mahir-vlinder-127",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongodb": "^6.13.0",
+    "node-fetch": "^3.3.2"
+  }
+}
